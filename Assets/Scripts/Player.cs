@@ -15,4 +15,10 @@ public class Player : MonoBehaviour
     {
         
     }
+
+    //needs to be implemented
+    public void TouchGround()
+    {
+        return;
+    }
 }
